@@ -4,12 +4,12 @@
 
 
 ans="y"
-while ans=="y":
+while ans=="y": #Loop if user wishes to restart this program
     number=0
     summ=0
     n=int(input("Enter a positive integer: "))
     prime="yes"
-    for i in range (2,int(n**0.5)+1):
+    for i in range (2,int(n**0.5)+1): #User the square root of the number to look for different cases
         if (n%i)==0:
             print(n,"is not prime")
             prime="no"
@@ -29,7 +29,7 @@ while ans=="y":
     
     ans=input("Do you want to do this again. Type (y)es or (n)o?:")
 if ans=="n":
-    print("I hope that this helped you. Bye!!!")
+    print("End")
 
 
 
