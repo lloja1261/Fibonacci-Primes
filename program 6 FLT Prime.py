@@ -2,6 +2,8 @@
 #Luis Loja
 #January 1, 2017
 
+
+#this program will use similar codes for the other types of prime numbers
 ans="y"
 while ans=="y":
     print()
