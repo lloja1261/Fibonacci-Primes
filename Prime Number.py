@@ -1,9 +1,9 @@
 #Luis Loja
-#Program 4: Determining a Prime Number
+#Determining a Prime Number
 #November 25, 2016
 
 
-ans="y"
+ans="y" 3 #the loop in case they want to run this code again. 
 while ans=="y": #Loop if user wishes to restart this program
     number=0
     summ=0
