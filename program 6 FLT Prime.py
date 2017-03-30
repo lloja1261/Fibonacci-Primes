@@ -1,4 +1,4 @@
-#Program 6 - Finding Primes Using FLT
+#Finding Primes Using FLT
 #Luis Loja
 #January 1, 2017
 
