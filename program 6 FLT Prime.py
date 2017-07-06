@@ -4,6 +4,7 @@
 
 
 #this program will use similar codes for the other types of prime numbers
+#using fermats little theorem
 ans="y"
 while ans=="y":
     print()
