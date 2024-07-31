@@ -1,6 +1,6 @@
 #Luis Loja
 #Determining a Prime Number
-#November 25, 2016
+
 
 
 ans="y" 3 #the loop in case they want to run this code again. 
